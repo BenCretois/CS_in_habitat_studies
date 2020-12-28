@@ -49,7 +49,7 @@ Functions below aim to create a simplified and standardized dataset between spec
 
 [get_availability_cross_species](./real_study/custom_functions/get_availability_cross_species.R): The function takes the observer model of another species as an argument and use it to sample the corrected availability points (procedure similar to the function [get_corrected_availability](./real_study/custom_functions/get_corrected_availability.R))
 
-[fit_rsf_models](./real_study/custom_functions/fit_rsf_models.R): The function fits three RSF, 
+[fit_models](./real_study/custom_functions/fit_models.R): The function fits three RSF, 
 * A model using the species' GPS telemetry location with random availability across the species' range
 * A model using citizen science observations and random availability across the species' range 
 * A model using citizen science observation with corrected availability using the target species' observer model
