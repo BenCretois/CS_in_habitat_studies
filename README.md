@@ -4,7 +4,7 @@
 
 This repository hosts functions . 
 
-**Note that to run the "real analysis"** the raster used to extract the covariates, the telemetry and Citizen Science dataset were too heavy to be shared on GitHub. You can find all this data at XXX. **Place the downloaded folders in data to smoothly run the scripts**
+**Note that to run the "real analysis"** the raster used to extract the covariates, the telemetry and Citizen Science dataset were too heavy to be shared on GitHub. You can find all this data at https://zenodo.org/record/4590153#.YGGdMq8zZaQ. **Place the downloaded folders in data to smoothly run the scripts**
 
 This work was supported by a PhD grant funded by the Norwegian University of Science and Technology and the Research Council of Norway.
 
